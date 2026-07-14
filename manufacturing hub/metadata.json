@@ -1,6 +1,0 @@
-{
-  "name": "Unified Manufacturing Hub",
-  "description": "Unified production, inventory, and quality checking platform with QR scanning, maintenance, scheduling, and role-based access.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
