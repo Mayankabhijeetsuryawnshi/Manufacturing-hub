@@ -19,9 +19,13 @@
 
 ---
 
-### 🌐 Live Demo
+## 🌐 Live Demo
 
-**Coming Soon**
+Experience the latest deployed version of **Manufacturing Hub** in your browser.
+
+**🔗 Live Application:** https://080281ab.manufacturing-hub.pages.dev/
+
+> The live deployment showcases the current state of the platform, including the user interface, operational workflows, and core manufacturing management capabilities currently available in the project.
 
 ### 📖 Documentation
 
