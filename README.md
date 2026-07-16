@@ -23,7 +23,7 @@
 
 Experience the latest deployed version of **Manufacturing Hub** in your browser.
 
-**🔗 Live Application:** https://79a83435.manufacturing-hub.pages.dev/
+**🔗 Live Application:** https://fa129b3f.manufacturing-hub.pages.dev/
 
 > The live deployment showcases the current state of the platform, including the user interface, operational workflows, and core manufacturing management capabilities currently available in the project.
 
